@@ -1,0 +1,47 @@
+.alt{
+    font-family: "robot";
+    color:#314a30;
+    font-size: 20px;
+}
+body{
+    background-color: #ffffff;
+    font-family: "robot";
+    color:rgb(34, 34, 34);
+}
+
+.online-logo{
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.google-logo{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    display: block;
+    margin-top: 4%;
+}
+
+input{
+    width: 550px;
+    height: 46px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border: 0px solid #2c2c2c;
+    background-color: rgba(128, 128, 128, 0.11);
+    background-image: url("images/ma.gif");
+    border-radius: 50px;
+    padding: 2%;
+    font-size: 15px;
+    backdrop-filter: blur(10px);
+    box-shadow: 1px 1px 10px 1px #3d3d3d3f;
+}
+

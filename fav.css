@@ -1,0 +1,44 @@
+.movie-hd{
+    width: 10%;
+    height: 10%;
+    margin-left: 3%;
+    margin-right: 7%;
+}
+.g-tanslate{
+    width: 10%;
+    height: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.youtube{
+    width: 10%;
+    height: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.anime{    
+    width: 10%;
+    height: 10%;
+    margin-left: 7%;
+    margin-right: 3%;
+}
+.shortcut{
+  border: 0px solid #2c2c2c;
+  border-radius: 50px;
+  width: 30%;
+  height: 8%;
+  padding-left: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
+  background-color: rgba(134, 134, 134, 0.068);
+}
+.sh{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
